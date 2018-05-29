@@ -1,4 +1,4 @@
 class ApplicationMailer < ActionMailer::Base
-  default from: 'contact@lewagon.org'
+  default from: 'benjamin.baranger@lewagon.org'
   layout 'mailer'
 end
