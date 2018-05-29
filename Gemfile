@@ -10,6 +10,7 @@ gem 'puma'
 gem 'rails', '5.2.0'
 gem 'redis'
 
+gem 'postmark-rails'
 gem "letter_opener", group: :development
 
 gem 'autoprefixer-rails'
